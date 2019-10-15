@@ -1,4 +1,5 @@
-/ Lower-to-Upper Program
+/ Case Flipper Program
+/ Matt Stillwell
 / 10-15-2019
 
 
